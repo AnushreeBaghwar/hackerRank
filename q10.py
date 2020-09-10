@@ -1,8 +1,8 @@
-# https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true
+# https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
 # Enter your code here. Read input from STDIN. Print output to STDOUT
-num_eng = int(input())
-roll_eng = set(map(int,input().split()))
-num_french = int(input())
-roll_french = set(map(int,input().split()))
-result = roll_eng.difference(roll_french)
+num_eng_sub = int(input())
+roll_eng_sub = set(map(int,input().split()))
+num_fren_sub = int(input())
+roll_fren_sub =set(map(int,input().split()))
+result = roll_eng_sub.symmetric_difference(roll_fren_sub)
 print(len(result))

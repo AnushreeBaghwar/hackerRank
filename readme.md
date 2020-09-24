@@ -4,7 +4,7 @@
 - test5
 - test5
 - [x] j
-    import python
+    import python3
 
 
 [hhgi](https://havlrt)

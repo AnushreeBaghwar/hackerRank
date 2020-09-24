@@ -1,10 +1,8 @@
-# Hi
+# HackerRank-solutions-python(Basic)
  
-- test
-- test5
-- test5
-- [x] j
-    import python3
+ * ####  Check out the link for the question on first line of each file.
+* #### Maximum questions are solved in python 3
 
 
-[hhgi](https://havlrt)
+
+

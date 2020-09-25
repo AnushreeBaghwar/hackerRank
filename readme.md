@@ -4,7 +4,6 @@
 
 
 
-* #### Maximum questions are solved in python 3
 
 ###  Check out the link for the question below.
 
@@ -257,4 +256,14 @@ String validators
 Np arrays
 - [Question](https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=true) 
  - [Solution](https://github.com/emoanu/hackerRank/blob/master/Np%20arrays.py)
+
+
+Defaultdict tutorial
+ - [Question](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true)
+ - [Solution](https://github.com/emoanu/hackerRank/blob/master/Defaultdict%20tutorial.py)
+
+
+Compress the string
+ - [Question](https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true)
+ - [Solution](https://github.com/emoanu/hackerRank/blob/master/Compress%20the%20string.py)
 

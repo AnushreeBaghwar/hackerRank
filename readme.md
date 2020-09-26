@@ -282,3 +282,8 @@ Floor ceil and rint
  - [Question](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?isFullScreen=true)
  - [Solution](https://github.com/emoanu/hackerRank/blob/master/Floor%20ceil%20and%20rint.py)
 
+
+Np eye and identity
+ - [Question](https://www.hackerrank.com/challenges/np-eye-and-identity/problem?isFullScreen=true)
+ - [Solution](https://github.com/emoanu/hackerRank/blob/master/Np%20eye%20and%20identity.py)
+

@@ -267,3 +267,8 @@ Compress the string
  - [Question](https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true)
  - [Solution](https://github.com/emoanu/hackerRank/blob/master/Compress%20the%20string.py)
 
+
+Np mean var and std
+ - [Question](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true)
+ - [Solution](https://github.com/emoanu/hackerRank/blob/master/Np%20mean%20var%20and%20std.py)
+

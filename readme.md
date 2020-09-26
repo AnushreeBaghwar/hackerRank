@@ -277,3 +277,8 @@ Np linear algebra
  - [Question](https://www.hackerrank.com/challenges/np-linear-algebra/problem?isFullScreen=true)
  - [Solution](https://github.com/emoanu/hackerRank/blob/master/Np%20linear%20algebra.py)
 
+
+Floor ceil and rint
+ - [Question](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?isFullScreen=true)
+ - [Solution](https://github.com/emoanu/hackerRank/blob/master/Floor%20ceil%20and%20rint.py)
+

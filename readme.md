@@ -272,3 +272,8 @@ Np mean var and std
  - [Question](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=true)
  - [Solution](https://github.com/emoanu/hackerRank/blob/master/Np%20mean%20var%20and%20std.py)
 
+
+Np linear algebra
+ - [Question](https://www.hackerrank.com/challenges/np-linear-algebra/problem?isFullScreen=true)
+ - [Solution](https://github.com/emoanu/hackerRank/blob/master/Np%20linear%20algebra.py)
+

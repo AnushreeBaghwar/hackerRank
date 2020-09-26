@@ -292,3 +292,8 @@ Np polynomials
  - [Question](https://www.hackerrank.com/challenges/np-polynomials/problem?isFullScreen=true)
  - [Solution](https://github.com/emoanu/hackerRank/blob/master/Np%20polynomials.py)
 
+
+Words score
+ - [Question](https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=true)
+ - [Solution](https://github.com/emoanu/hackerRank/blob/master/Words%20score.py)
+

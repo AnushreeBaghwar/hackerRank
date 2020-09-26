@@ -287,3 +287,8 @@ Np eye and identity
  - [Question](https://www.hackerrank.com/challenges/np-eye-and-identity/problem?isFullScreen=true)
  - [Solution](https://github.com/emoanu/hackerRank/blob/master/Np%20eye%20and%20identity.py)
 
+
+Np polynomials
+ - [Question](https://www.hackerrank.com/challenges/np-polynomials/problem?isFullScreen=true)
+ - [Solution](https://github.com/emoanu/hackerRank/blob/master/Np%20polynomials.py)
+
